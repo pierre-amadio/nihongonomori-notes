@@ -1475,6 +1475,7 @@ https://www.youtube.com/watch?v=ogfU5gNIIKk&list=PLINFE8v4DOhuXZut4JWHo_KS71nTHE
 	動詞
 
 	形容詞には接続しない！
+
 意味：
 	「〜なのに」
 	AなのにB  ＜AとBは対比関係＞
@@ -1488,6 +1489,7 @@ https://www.youtube.com/watch?v=ogfU5gNIIKk&list=PLINFE8v4DOhuXZut4JWHo_KS71nTHE
 ＊ 〜（の）わりに
 
 接続：	名詞（の）。動詞、形容詞
+
 意味：
 	「〜なのに」
 	AなのにB  ＜AとBは対比関係＞
@@ -1517,6 +1519,7 @@ https://www.youtube.com/watch?v=BRG5Eq0euAY&list=PLINFE8v4DOhuXZut4JWHo_KS71nTHE
 ＊ 〜にかかわらず 。 〜 にかかわりなく
 
 接続： 名詞＋（にかかわらず · にかかわりなく）
+
 意味： 「（〜は）関係ない」の硬い表現
 	ー＞ （自分に考えで） 〜をする場合も使う
 	ー＞ どんなA （状況） でもB
@@ -1565,6 +1568,7 @@ https://www.youtube.com/watch?v=K-MFMwrAdtM&list=PLINFE8v4DOhuXZut4JWHo_KS71nTHE
 「〜なら」の硬い表現
 
 接続：	動詞辞書形＋ものなら
+
 意味：「〜なら」の硬い表現
 	ー＞やっても「どうせできない」という意味
 	ー＞「もんなら」は日常会話でよく使う	
@@ -1577,6 +1581,7 @@ https://www.youtube.com/watch?v=K-MFMwrAdtM&list=PLINFE8v4DOhuXZut4JWHo_KS71nTHE
 * ～(よ)うものなら
 
 接続：（動詞’う’また’よう’形）＋ものなら	
+
 意味：「もし〜すると」の硬い表現
 	ー＞〜やったら悪い結果になる	
 
@@ -1610,5 +1615,41 @@ https://www.youtube.com/watch?v=wB0p66ZUe-U&list=PLINFE8v4DOhuXZut4JWHo_KS71nTHE
 仕事が終わらなかったので、今日は残業せざるを得ない。
 あ、ちょうど今売り切れになったよ。今日は諦めざるを得ないね。
 
+
+#36/36) ～からといって vs ～といっても
+https://www.youtube.com/watch?v=UiEZhbZd9_c&list=PLINFE8v4DOhuXZut4JWHo_KS71nTHE_I1&index=36
+
+＊ ～からといって
+
+接続：	普通形＋からといって
+
+意味：	「〜という理由だけで」の硬い表現
+	ー＞	AからといってB
+		AとBが対比
+	ー＞ただAだけの理由でBするのは違うのでは？
+	ー＞文末には
+		「とは限らない」
+		「わけではない」
+		「べきではない」
+	等、マイナスに意味がよくくる
+
+高いレストランだからといって、おいしいわけではない。
+いくら親しいからといって、友達に多額の金を借りることはできない。
+台風だからとって、授業を休むべきではない。
+たくさん勉強したからといって、必ずしもテストの点数が上がるわけではない。
+
+＊  ～といっても
+
+接続：	名＋といっても
+	普通形＋とっても
+
+意味：	「（だ）けど」の硬い表現
+	ー＞AといってもB
+	ー＞Aは本当だけど、実際はBしかできない A＞B
+
+泳げるといっても、5メートルぐらいですよ。
+中国語の資格を持っているといっても、まだ全然うまくは話せません。
+彼は日本人といってもアメリカ育ちなので日本語は全然話せない。
+ラーメンといっても、全部カロリーが高いわけじゃないよ。
 
 
