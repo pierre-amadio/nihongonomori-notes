@@ -1,0 +1,12 @@
+辞書形			(dictionary):		書く （かく）
+ます形			(masu):			書きます
+ない形			(nai):			書かない
+て形			(te):			書いて
+た形			(ta):			書いた
+可能のけい		(potential):		書ける
+「〜ばー〜なら」の形	(hypotetical):		書けば
+う。よう形		(volitional):		書こう
+受身の形			(passive):		書かれる
+使役の形			(causative):		書かせる
+使役受身の形		(causative passive):	書かされる
+

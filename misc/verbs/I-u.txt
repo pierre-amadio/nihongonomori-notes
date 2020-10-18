@@ -1,0 +1,13 @@
+辞書形			(dictionary):		買う （かう）
+ます形			(masu):			買います
+ない形			(nai):			買わない
+て形			(te):			買って
+た形			(ta):			買った
+可能のけい		(potential):		買える
+「〜ばー〜なら」の形	(hypotetical):		買えば
+う。よう形		(volitional):		買おう
+受身の形			(passive):		買われる
+使役の形			(causative):		買わせる
+使役受身の形		(causative passive):	買わされる
+
+
