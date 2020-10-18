@@ -1,0 +1,12 @@
+辞書形			(dictionary):		話す （はなす）
+ます形			(masu):			話します
+ない形			(nai):			話さない
+て形			(te):			話して
+た形			(ta):			話した
+可能のけい		(potential):		話せる
+「〜ばー〜なら」の形	(hypotetical):		話せば
+う。よう形		(volitional):		話そう
+受身の形			(passive):		話される
+使役の形			(causative):		話させる
+使役受身の形		(causative passive):	XXX
+
