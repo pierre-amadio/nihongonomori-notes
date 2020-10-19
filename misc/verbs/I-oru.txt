@@ -1,0 +1,12 @@
+辞書形			(dictionary):		取る	（とる）
+ます形			(masu):			取ります
+ない形			(nai):			取らない
+て形			(te):			取って
+た形			(ta):			取った
+可能の形		(potential):			取れる
+「〜ばー〜なら」の形	(hypotetical):		取れば
+う。よう形		(volitional):		取ろう
+受身の形			(passive):		取られる
+使役の形			(causative):		取らせる
+使役受身の形		(causative passive):	取らされる
+

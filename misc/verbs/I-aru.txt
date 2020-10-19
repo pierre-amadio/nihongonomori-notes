@@ -1,0 +1,12 @@
+辞書形			(dictionary):		有る （ある）
+ます形			(masu):			有ります
+ない形			(nai):			無い （ない）
+て形			(te):			有って
+た形			(ta):			有った
+可能の形		(potential):			有れ
+「〜ばー〜なら」の形	(hypotetical):		有れば
+う。よう形		(volitional):		有ろう
+受身の形			(passive):		有られる
+使役の形			(causative):		有らせる
+使役受身の形		(causative passive):	有らされる
+

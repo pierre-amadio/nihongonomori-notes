@@ -1,0 +1,12 @@
+辞書形			(dictionary):		作る （つくる）
+ます形			(masu):			作ります
+ない形			(nai):			作らない
+て形			(te):			作って
+た形			(ta):			作った
+可能の形		(potential):			作れる
+「〜ばー〜なら」の形	(hypotetical):		作れば
+う。よう形		(volitional):		作ろう
+受身の形			(passive):		作られる
+使役の形			(causative):		作らせる
+使役受身の形		(causative passive):	作らされる
+

@@ -1,0 +1,12 @@
+辞書形			(dictionary):		飲む	（のむ）
+ます形			(masu):			飲みます
+ない形			(nai):			飲まない
+て形			(te):			飲んで
+た形			(ta):			飲んだ
+可能の形		(potential):			飲める
+「〜ばー〜なら」の形	(hypotetical):		飲めば
+う。よう形		(volitional):		飲もう
+受身の形			(passive):		飲まれる
+使役の形			(causative):		飲ませる
+使役受身の形		(causative passive):	飲まされる
+
