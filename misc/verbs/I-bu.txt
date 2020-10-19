@@ -1,0 +1,12 @@
+辞書形			(dictionary):		遊ぶ （あそぶ）
+ます形			(masu):			遊びます
+ない形			(nai):			遊ばない
+て形			(te):			遊んで
+た形			(ta):			遊んだ
+可能の形		(potential):			遊べる
+「〜ばー〜なら」の形	(hypotetical):		遊べば
+う。よう形		(volitional):		遊ぼう
+受身の形			(passive):		遊ばれる
+使役の形			(causative):		遊ばせる
+使役受身の形		(causative passive):	遊ばされる
+
