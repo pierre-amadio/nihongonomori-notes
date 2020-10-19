@@ -1,0 +1,12 @@
+辞書形			(dictionary):		持つ （もつ）
+ます形			(masu):			持ちます
+ない形			(nai):			持たない
+て形			(te):			持って
+た形			(ta):			持った
+可能のけい		(potential):		持てる
+「〜ばー〜なら」の形	(hypotetical):		持てば
+う。よう形		(volitional):		持とう
+受身の形			(passive):		持たれる
+使役の形			(causative):		持たせる
+使役受身の形		(causative passive):	持たされる
+

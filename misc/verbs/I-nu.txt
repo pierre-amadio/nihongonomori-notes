@@ -1,0 +1,12 @@
+辞書形			(dictionary):		死ぬ
+ます形			(masu):			死にます
+ない形			(nai):			死なない
+て形			(te):			死んで
+た形			(ta):			死んだ
+可能の形		(potential):			死ねる
+「〜ばー〜なら」の形	(hypotetical):		死ねば
+う。よう形		(volitional):		死のう
+受身の形			(passive):		死なれる
+使役の形			(causative):		死なせる
+使役受身の形		(causative passive):	死なされる
+
