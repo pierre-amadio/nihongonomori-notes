@@ -1,0 +1,13 @@
+辞書形			(dictionary):		食べる （たべる）
+ます形			(masu):			食べます
+ない形			(nai):			食べない
+て形			(te):			食べて
+た形			(ta):			食べた
+可能の形			(potential):		食べられる
+「〜ばー〜なら」の形	(hypotetical):		食べれば
+う。よう形		(volitional):		食べよう
+受身の形			(passive):		食べられる
+使役の形			(causative):		食べらせる
+使役受身の形		(causative passive):	XXX
+使役受身の形		(causative passive)II:	食べさせられる
+
