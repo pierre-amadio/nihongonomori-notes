@@ -9,5 +9,5 @@
 受身の形			(passive):		帰られる
 使役の形			(causative):		帰らせる
 使役受身の形		(causative passive):	帰らされる
-使役受身の形		(causative passive)II:
+使役受身の形		(causative passive)II:	帰らせられる
 
