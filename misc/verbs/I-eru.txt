@@ -1,0 +1,12 @@
+辞書形			(dictionary):		帰る （かえる）
+ます形			(masu):			帰ります
+ない形			(nai):			帰らない
+て形			(te):			帰って
+た形			(ta):			帰った
+可能の形		(potential):			帰れる
+「〜ばー〜なら」の形	(hypotetical):		帰れば
+う。よう形		(volitional):		帰ろう
+受身の形			(passive):		帰られる
+使役の形			(causative):		帰らせる
+使役受身の形		(causative passive):	帰らされる
+

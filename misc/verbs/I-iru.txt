@@ -1,0 +1,12 @@
+辞書形			(dictionary):		走る （はしる）
+ます形			(masu):			走ります
+ない形			(nai):			走らない
+て形			(te):			走って
+た形			(ta):			走った
+可能の形		(potential):			走れる
+「〜ばー〜なら」の形	(hypotetical):		走れば
+う。よう形		(volitional):		走ろう
+受身の形			(passive):		走られる
+使役の形			(causative):		走らせる
+使役受身の形		(causative passive):	走らされる
+
