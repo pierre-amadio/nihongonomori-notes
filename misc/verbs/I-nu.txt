@@ -9,4 +9,5 @@
 受身の形			(passive):		死なれる
 使役の形			(causative):		死なせる
 使役受身の形		(causative passive):	死なされる
+使役受身の形		(causative passive)II:
 

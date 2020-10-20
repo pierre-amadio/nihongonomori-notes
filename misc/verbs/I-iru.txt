@@ -9,4 +9,5 @@
 受身の形			(passive):		走られる
 使役の形			(causative):		走らせる
 使役受身の形		(causative passive):	走らされる
+使役受身の形		(causative passive)II:
 

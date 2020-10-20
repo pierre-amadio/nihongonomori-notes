@@ -9,4 +9,5 @@
 受身の形			(passive):		遊ばれる
 使役の形			(causative):		遊ばせる
 使役受身の形		(causative passive):	遊ばされる
+使役受身の形		(causative passive)II:
 

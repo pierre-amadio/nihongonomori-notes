@@ -3,10 +3,11 @@
 ない形			(nai):			a
 て形			(te):			a
 た形			(ta):			a
-可能の形		(potential):		a
+可能の形		(potential):			a
 「〜ばー〜なら」の形	(hypotetical):		a
 う。よう形		(volitional):		a
 受身の形			(passive):		a
 使役の形			(causative):		a
 使役受身の形		(causative passive):	a
+使役受身の形		(causative passive)II:	a
 

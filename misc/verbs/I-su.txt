@@ -9,4 +9,5 @@
 受身の形			(passive):		話される
 使役の形			(causative):		話させる
 使役受身の形		(causative passive):	XXX
+使役受身の形		(causative passive)II:
 

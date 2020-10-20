@@ -1,12 +1,13 @@
-辞書形			(dictionary):		a
-ます形			(masu):			a
-ない形			(nai):			a
-て形			(te):			a
-た形			(ta):			a
-可能の形		(potential):		a
-「〜ばー〜なら」の形	(hypotetical):		a
-う。よう形		(volitional):		a
-受身の形			(passive):		a
-使役の形			(causative):		a
-使役受身の形		(causative passive):	a
+辞書形			(dictionary):		見る みる
+ます形			(masu):			見ます
+ない形			(nai):			見ない
+て形			(te):			見て
+た形			(ta):			見た
+可能の形		(potential):			見られる
+「〜ばー〜なら」の形	(hypotetical):		見れば
+う。よう形		(volitional):		見よう
+受身の形			(passive):		見られる
+使役の形			(causative):		見させる
+使役受身の形		(causative passive):	XXX
+使役受身の形		(causative passive)II:	見させされる
 

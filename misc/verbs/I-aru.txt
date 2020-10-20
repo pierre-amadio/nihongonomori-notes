@@ -9,4 +9,5 @@
 受身の形			(passive):		有られる
 使役の形			(causative):		有らせる
 使役受身の形		(causative passive):	有らされる
+使役受身の形		(causative passive)II:
 

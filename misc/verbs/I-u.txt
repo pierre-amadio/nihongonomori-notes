@@ -9,5 +9,6 @@
 受身の形			(passive):		買われる
 使役の形			(causative):		買わせる
 使役受身の形		(causative passive):	買わされる
+使役受身の形		(causative passive)II:
 
 
