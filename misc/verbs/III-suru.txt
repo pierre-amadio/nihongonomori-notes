@@ -1,0 +1,13 @@
+辞書形			(dictionary):		する
+ます形			(masu):			します
+ない形			(nai):			しない
+て形			(te):			して
+た形			(ta):			した
+可能の形		(potential):			できる
+「〜ばー〜なら」の形	(hypotetical):		すれば
+う。よう形		(volitional):		しよう
+受身の形			(passive):		される
+使役の形			(causative):		させる
+使役受身の形		(causative passive):	XXX
+使役受身の形		(causative passive)II:	させられる
+

@@ -1,0 +1,13 @@
+辞書形			(dictionary):		来る	（くる）
+ます形			(masu):			来ます	（きます）
+ない形			(nai):			来ない	（こない）
+て形			(te):			来て	（きて）
+た形			(ta):			来た	（きた）
+可能の形			(potential):		来られる	（こられる）
+「〜ばー〜なら」の形	(hypotetical):		来れば	（くれば）
+う。よう形		(volitional):		来よう	（こよう）
+受身の形			(passive):		来られる	（こられる）
+使役の形			(causative):		来させる	（こさせる）
+使役受身の形		(causative passive):	XXX
+使役受身の形		(causative passive)II:	来させられる
+
