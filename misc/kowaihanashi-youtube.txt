@@ -59,3 +59,112 @@ ffmpeg -i 10stfull.mp3 -ss 01:13:05 -to 01:23:22 -acodec copy 09-10stories.mp3
 ffmpeg -i 10stfull.mp3 -ss 01:23:22 -to 01:41:03 -acodec copy 10-10stories.mp3
 
 for i in {01..10} ; do /home/share/lame/bin/lame --scale 10 ../$i-10stories.mp3 $i-storiesx10.mp3 ;done
+
+##############"
+家 12 juin
+https://www.youtube.com/watch?v=rWtYnrBACvk
+
+ffmpeg -i full.mp3 -ss 00:00:18 -to 00:07:52 -acodec copy 01-ie-12jun.mp3
+ffmpeg -i full.mp3 -ss 00:07:52 -to 00:18:05 -acodec copy 02-ie-12jun.mp3
+ffmpeg -i full.mp3 -ss 00:18:05 -to 00:28:51 -acodec copy 03-ie-12jun.mp3
+ffmpeg -i full.mp3 -ss 00:28:51 -to 00:35:29 -acodec copy 04-ie-12jun.mp3
+ffmpeg -i full.mp3 -ss 00:35:29 -to 00:45:57 -acodec copy 05-ie-12jun.mp3
+ffmpeg -i full.mp3 -ss 00:45:57 -to 00:50:45 -acodec copy 06-ie-12jun.mp3
+ffmpeg -i full.mp3 -ss 00:50:45 -to 00:58:51 -acodec copy 07-ie-12jun.mp3
+ffmpeg -i full.mp3 -ss 00:58:51 -to 01:03:45 -acodec copy 08-ie-12jun.mp3
+
+#############################
+夏 29juin
+https://www.youtube.com/watch?v=aB9eBGCOxjw
+
+ffmpeg -i full.mp3 -ss 00:00:10 -to 00:05:40 -acodec copy 01-natsu-21jun.mp3
+ffmpeg -i full.mp3 -ss 00:05:40 -to 00:13:03 -acodec copy 02-natsu-21jun.mp3
+ffmpeg -i full.mp3 -ss 00:13:03 -to 00:21:56 -acodec copy 03-natsu-21jun.mp3
+ffmpeg -i full.mp3 -ss 00:21:56 -to 00:33:49 -acodec copy 04-natsu-21jun.mp3
+ffmpeg -i full.mp3 -ss 00:33:49 -to 00:44:11 -acodec copy 05-natsu-21jun.mp3
+ffmpeg -i full.mp3 -ss 00:44:11 -to 00:48:12 -acodec copy 06-natsu-21jun.mp3
+ffmpeg -i full.mp3 -ss 00:48:12 -to 00:58:53 -acodec copy 07-natsu-21jun.mp3
+
+
+#############################
+アルバイト 3 jun
+
+https://www.youtube.com/watch?v=JsMH_afGIV4
+
+ffmpeg -i full.mp3 -ss 00:00:10 -to 00:04:30 -acodec copy 01-arubaito-03jul.mp3
+ffmpeg -i full.mp3 -ss 00:04:30 -to 00:08:01 -acodec copy 02-arubaito-03jul.mp3
+ffmpeg -i full.mp3 -ss 00:08:01 -to 00:20:26 -acodec copy 03-arubaito-03jul.mp3
+ffmpeg -i full.mp3 -ss 00:20:26 -to 00:37:08 -acodec copy 04-arubaito-03jul.mp3
+ffmpeg -i full.mp3 -ss 00:37:08 -to 00:40:07 -acodec copy 05-arubaito-03jul.mp3
+ffmpeg -i full.mp3 -ss 00:40:07 -to 00:45:17 -acodec copy 06-arubaito-03jul.mp3
+
+
+#############################
+首 13 jul
+https://www.youtube.com/watch?v=yMmdAtADK_w
+
+ffmpeg -i full.mp3 -ss 00:00:10 -to 00:08:26 -acodec copy 01-kubi-13jul.mp3
+ffmpeg -i full.mp3 -ss 00:08:26 -to 00:12:26 -acodec copy 02-kubi-13jul.mp3
+ffmpeg -i full.mp3 -ss 00:12:26 -to 00:33:58 -acodec copy 03-kubi-13jul.mp3
+ffmpeg -i full.mp3 -ss 00:33:58 -to 00:45:11 -acodec copy 04-kubi-13jul.mp3
+ffmpeg -i full.mp3 -ss 00:45:11 -to 00:56:32 -acodec copy 05-kubi-13jul.mp3
+ffmpeg -i full.mp3 -ss 00:56:32 -to 01:09:13 -acodec copy 06-kubi-13jul.mp3
+
+#############################
+https://www.youtube.com/watch?v=nBDu_U_mgGU&ab_channel=%E3%81%94%E3%81%BE%E3%81%A0%E3%82%93%E3%81%94%E3%81%AE%E6%80%AA%E5%A5%87%E3%81%AA%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB
+
+肝試し 17 jul
+
+ffmpeg -i full.mp3 -ss 00:00:10 -to 00:04:10 -acodec copy 01-kimodameshi-17jul.mp3
+ffmpeg -i full.mp3 -ss 00:04:10 -to 00:14:54 -acodec copy 02-kimodameshi-17jul.mp3
+ffmpeg -i full.mp3 -ss 00:14:54 -to 00:24:35 -acodec copy 03-kimodameshi-17jul.mp3
+ffmpeg -i full.mp3 -ss 00:24:35 -to 00:34:01 -acodec copy 04-kimodameshi-17jul.mp3
+ffmpeg -i full.mp3 -ss 00:34:01 -to 00:41:50 -acodec copy 05-kimodameshi-17jul.mp3
+ffmpeg -i full.mp3 -ss 00:41:50 -to 00:46:05 -acodec copy 06-kimodameshi-17jul.mp3
+ffmpeg -i full.mp3 -ss 00:46:05 -to 00:56:22 -acodec copy 07-kimodameshi-17jul.mp3
+
+
+############################
+https://www.youtube.com/watch?v=t6BKyHBY_cI
+
+
+ffmpeg -i full.mp3 -ss 00:00:10 -to 00:09:51 -acodec copy 01-select12-16jun.mp3
+ffmpeg -i full.mp3 -ss 00:09:51 -to 00:19:54 -acodec copy 02-select12-16jun.mp3
+ffmpeg -i full.mp3 -ss 00:19:54 -to 00:26:01 -acodec copy 03-select12-16jun.mp3
+ffmpeg -i full.mp3 -ss 00:26:01 -to 00:32:46 -acodec copy 04-select12-16jun.mp3
+ffmpeg -i full.mp3 -ss 00:32:46 -to 00:35:57 -acodec copy 05-select12-16jun.mp3
+ffmpeg -i full.mp3 -ss 00:35:57 -to 00:39:05 -acodec copy 06-select12-16jun.mp3
+ffmpeg -i full.mp3 -ss 00:39:05 -to 00:49:43 -acodec copy 07-select12-16jun.mp3
+ffmpeg -i full.mp3 -ss 00:49:43 -to 01:05:11 -acodec copy 08-select12-16jun.mp3
+ffmpeg -i full.mp3 -ss 01:05:11 -to 01:10:39 -acodec copy 09-select12-16jun.mp3
+ffmpeg -i full.mp3 -ss 01:10:39 -to 01:16:59 -acodec copy 10-select12-16jun.mp3
+ffmpeg -i full.mp3 -ss 01:16:59 -to 01:22:20 -acodec copy 11-select12-16jun.mp3
+ffmpeg -i full.mp3 -ss 01:22:20 -to 01:28:00 -acodec copy 12-select12-16jun.mp3
+
+####################################
+https://www.youtube.com/watch?v=sVGN2iKc-s0
+
+10 aout テレビ
+
+ffmpeg -i full.mp3 -ss 00:00:10 -to 00:21:42 -acodec copy 01-terebi-10aug.mp3
+ffmpeg -i full.mp3 -ss 00:21:42 -to 00:26:47 -acodec copy 02-terebi-10aug.mp3
+ffmpeg -i full.mp3 -ss 00:26:47 -to 00:28:16 -acodec copy 03-terebi-10aug.mp3
+ffmpeg -i full.mp3 -ss 00:28:16 -to 00:38:05 -acodec copy 04-terebi-10aug.mp3
+ffmpeg -i full.mp3 -ss 00:38:05 -to 01:13:16 -acodec copy 05-terebi-10aug.mp3
+ffmpeg -i full.mp3 -ss 01:13:16 -to 01:17:13 -acodec copy 06-terebi-10aug.mp3
+
+####################################
+https://www.youtube.com/watch?v=Vx7Rk118Cjo
+3 aug kaerimichi
+
+ffmpeg -i full.mp3 -ss 00:00:10 -to 00:03:48 -acodec copy 01-kaerimichi.mp3
+ffmpeg -i full.mp3 -ss 00:03:48 -to 00:06:55 -acodec copy 02-kaerimichi.mp3
+ffmpeg -i full.mp3 -ss 00:06:55 -to 00:13:30 -acodec copy 03-kaerimichi.mp3
+ffmpeg -i full.mp3 -ss 00:13:30 -to 00:19:59 -acodec copy 04-kaerimichi.mp3
+ffmpeg -i full.mp3 -ss 00:19:59 -to 00:22:47 -acodec copy 05-kaerimichi.mp3
+ffmpeg -i full.mp3 -ss 00:22:47 -to 00:34:01 -acodec copy 06-kaerimichi.mp3
+ffmpeg -i full.mp3 -ss 00:34:01 -to 00:47:08 -acodec copy 07-kaerimichi.mp3
+ffmpeg -i full.mp3 -ss 00:47:08 -to 00:55:20 -acodec copy 08-kaerimichi.mp3
+
+
+
