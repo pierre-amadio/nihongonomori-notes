@@ -166,5 +166,37 @@ ffmpeg -i full.mp3 -ss 00:22:47 -to 00:34:01 -acodec copy 06-kaerimichi.mp3
 ffmpeg -i full.mp3 -ss 00:34:01 -to 00:47:08 -acodec copy 07-kaerimichi.mp3
 ffmpeg -i full.mp3 -ss 00:47:08 -to 00:55:20 -acodec copy 08-kaerimichi.mp3
 
+######################################
+https://www.youtube.com/watch?v=cFj-lfYVSho
+14 aug innaka
 
+ffmpeg -i full.mp3 -ss 00:00:10 -to 00:08:43 -acodec copy 01-innaka14aug.mp3
+ffmpeg -i full.mp3 -ss 00:08:43 -to 00:14:07 -acodec copy 02-innaka14aug.mp3
+ffmpeg -i full.mp3 -ss 00:14:07 -to 00:27:41 -acodec copy 03-innaka14aug.mp3
+ffmpeg -i full.mp3 -ss 00:27:41 -to 00:38:05 -acodec copy 04-innaka14aug.mp3
+ffmpeg -i full.mp3 -ss 00:38:05 -to 00:46:35 -acodec copy 05-innaka14aug.mp3
+ffmpeg -i full.mp3 -ss 00:46:35 -to 00:49:56 -acodec copy 06-innaka14aug.mp3
+ffmpeg -i full.mp3 -ss 00:49:56 -to 01:06:23 -acodec copy 07-innaka14aug.mp3
+
+######################################
+https://www.youtube.com/watch?v=gxRHV51h1FU
+25 aug zansho
+
+
+ffmpeg -i full.mp3 -ss 00:00:17 -to 00:07:09 -acodec copy 01-zansho-25aug.mp3
+ffmpeg -i full.mp3 -ss 00:07:09 -to 00:10:51 -acodec copy 02-zansho-25aug.mp3
+ffmpeg -i full.mp3 -ss 00:10:51 -to 00:12:45 -acodec copy 03-zansho-25aug.mp3
+ffmpeg -i full.mp3 -ss 00:12:45 -to 00:18:30 -acodec copy 04-zansho-25aug.mp3
+ffmpeg -i full.mp3 -ss 00:18:30 -to 00:24:18 -acodec copy 05-zansho-25aug.mp3
+ffmpeg -i full.mp3 -ss 00:24:18 -to 00:27:47 -acodec copy 06-zansho-25aug.mp3
+ffmpeg -i full.mp3 -ss 00:27:47 -to 00:30:49 -acodec copy 07-zansho-25aug.mp3
+ffmpeg -i full.mp3 -ss 00:30:49 -to 00:35:03 -acodec copy 08-zansho-25aug.mp3
+ffmpeg -i full.mp3 -ss 00:35:03 -to 00:38:44 -acodec copy 09-zansho-25aug.mp3
+ffmpeg -i full.mp3 -ss 00:38:44 -to 00:42:22 -acodec copy 10-zansho-25aug.mp3
+ffmpeg -i full.mp3 -ss 00:42:22 -to 00:45:47 -acodec copy 11-zansho-25aug.mp3
+ffmpeg -i full.mp3 -ss 00:45:47 -to 00:49:41 -acodec copy 12-zansho-25aug.mp3
+ffmpeg -i full.mp3 -ss 00:49:41 -to 00:52:55 -acodec copy 13-zansho-25aug.mp3
+ffmpeg -i full.mp3 -ss 00:52:55 -to 00:55:30 -acodec copy 14-zansho-25aug.mp3
+ffmpeg -i full.mp3 -ss 00:55:30 -to 00:58:16 -acodec copy 15-zansho-25aug.mp3
+ffmpeg -i full.mp3 -ss 00:58:16 -to 01:03:10 -acodec copy 16-zansho-25aug.mp3
 
