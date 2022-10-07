@@ -200,3 +200,44 @@ ffmpeg -i full.mp3 -ss 00:52:55 -to 00:55:30 -acodec copy 14-zansho-25aug.mp3
 ffmpeg -i full.mp3 -ss 00:55:30 -to 00:58:16 -acodec copy 15-zansho-25aug.mp3
 ffmpeg -i full.mp3 -ss 00:58:16 -to 01:03:10 -acodec copy 16-zansho-25aug.mp3
 
+######################################
+https://www.youtube.com/watch?v=uM6OpryXA1Q
+21 aug tomodachi
+
+
+ffmpeg -i full.mp3 -ss 00:00:10 -to 00:05:33 -acodec copy 01-tomodachi-21aug.mp3
+ffmpeg -i full.mp3 -ss 00:05:33 -to 00:12:01 -acodec copy 02-tomodachi-21aug.mp3
+ffmpeg -i full.mp3 -ss 00:12:01 -to 00:18:09 -acodec copy 03-tomodachi-21aug.mp3
+ffmpeg -i full.mp3 -ss 00:18:09 -to 00:24:47 -acodec copy 04-tomodachi-21aug.mp3
+ffmpeg -i full.mp3 -ss 00:24:47 -to 00:30:09 -acodec copy 05-tomodachi-21aug.mp3
+ffmpeg -i full.mp3 -ss 00:30:09 -to 00:36:38 -acodec copy 06-tomodachi-21aug.mp3
+ffmpeg -i full.mp3 -ss 00:36:38 -to 00:45:25 -acodec copy 07-tomodachi-21aug.mp3
+ffmpeg -i full.mp3 -ss 00:45:25 -to 00:51:57 -acodec copy 08-tomodachi-21aug.mp3
+ffmpeg -i full.mp3 -ss 00:51:57 -to 01:00:18 -acodec copy 09-tomodachi-21aug.mp3
+
+########################################
+https://www.youtube.com/watch?v=3ycGZD4D2UM
+25 sept mansion
+
+
+ffmpeg -i full.mp3 -ss 00:00:10 -to 00:07:00 -acodec copy 01-mansion-27sept.mp3
+ffmpeg -i full.mp3 -ss 00:07:00 -to 00:16:06 -acodec copy 02-mansion-27sept.mp3
+ffmpeg -i full.mp3 -ss 00:16:06 -to 00:23:40 -acodec copy 03-mansion-27sept.mp3
+ffmpeg -i full.mp3 -ss 00:23:40 -to 00:32:14 -acodec copy 04-mansion-27sept.mp3
+ffmpeg -i full.mp3 -ss 00:32:14 -to 00:46:18 -acodec copy 05-mansion-27sept.mp3
+ffmpeg -i full.mp3 -ss 00:46:18 -to 00:56:55 -acodec copy 06-mansion-27sept.mp3
+
+
+########################################
+https://www.youtube.com/watch?v=7lUtu8yJN-Q
+
+kaminoke 6 oct
+
+ffmpeg -i full.mp3 -ss 00:00:10 -to 00:13:07 -acodec copy 01-kaminoke7oct.mp3
+ffmpeg -i full.mp3 -ss 00:13:07 -to 00:24:52 -acodec copy 02-kaminoke7oct.mp3
+ffmpeg -i full.mp3 -ss 00:24:52 -to 00:29:39 -acodec copy 03-kaminoke7oct.mp3
+ffmpeg -i full.mp3 -ss 00:29:39 -to 00:39:31 -acodec copy 04-kaminoke7oct.mp3
+ffmpeg -i full.mp3 -ss 00:39:31 -to 00:50:37 -acodec copy 05-kaminoke7oct.mp3
+ffmpeg -i full.mp3 -ss 00:50:37 -to 00:56:06 -acodec copy 06-kaminoke7oct.mp3
+ffmpeg -i full.mp3 -ss 00:56:06 -to 01:00:49 -acodec copy 07-kaminoke7oct.mp3
+
