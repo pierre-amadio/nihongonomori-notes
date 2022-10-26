@@ -241,3 +241,49 @@ ffmpeg -i full.mp3 -ss 00:39:31 -to 00:50:37 -acodec copy 05-kaminoke7oct.mp3
 ffmpeg -i full.mp3 -ss 00:50:37 -to 00:56:06 -acodec copy 06-kaminoke7oct.mp3
 ffmpeg -i full.mp3 -ss 00:56:06 -to 01:00:49 -acodec copy 07-kaminoke7oct.mp3
 
+########################################
+https://www.youtube.com/watch?v=uUc3wBkycQY
+kohen 13 oct
+
+
+ffmpeg -i full.mp3 -ss 00:00:10 -to 00:14:39 -acodec copy 01-kohen13oct.mp3
+ffmpeg -i full.mp3 -ss 00:14:39 -to 00:20:02 -acodec copy 02-kohen13oct.mp3
+ffmpeg -i full.mp3 -ss 00:20:02 -to 00:30:15 -acodec copy 03-kohen13oct.mp3
+ffmpeg -i full.mp3 -ss 00:30:15 -to 00:38:08 -acodec copy 04-kohen13oct.mp3
+ffmpeg -i full.mp3 -ss 00:38:08 -to 00:46:01 -acodec copy 05-kohen13oct.mp3
+ffmpeg -i full.mp3 -ss 00:46:01 -to 00:48:36 -acodec copy 06-kohen13oct.mp3
+ffmpeg -i full.mp3 -ss 00:48:36 -to 00:50:52 -acodec copy 07-kohen13oct.mp3
+
+########################################
+https://www.youtube.com/watch?v=tRf5h263860
+jikka-oct
+
+
+ffmpeg -i full.mp3 -ss 00:00:10 -to 00:09:58 -acodec copy 01-jikka-oct.mp3
+ffmpeg -i full.mp3 -ss 00:09:58 -to 00:12:43 -acodec copy 02-jikka-oct.mp3
+ffmpeg -i full.mp3 -ss 00:12:43 -to 00:21:58 -acodec copy 03-jikka-oct.mp3
+ffmpeg -i full.mp3 -ss 00:21:58 -to 00:31:13 -acodec copy 04-jikka-oct.mp3
+ffmpeg -i full.mp3 -ss 00:31:13 -to 00:38:54 -acodec copy 05-jikka-oct.mp3
+ffmpeg -i full.mp3 -ss 00:38:54 -to 00:46:44 -acodec copy 06-jikka-oct.mp3
+ffmpeg -i full.mp3 -ss 00:46:44 -to 00:54:06 -acodec copy 07-jikka-oct.mp3
+
+########################################
+rikki no yobanashi
+https://www.youtube.com/watch?v=KlZFWl4Hx4Q&ab_channel=%E3%80%90%E6%80%96%E3%81%84%E8%A9%B1%E3%80%91%E3%82%8A%E3%81%A3%E3%81%8D%E3%81%83%E3%81%AE%E5%A4%9C%E8%A9%B1
+
+jinbutsu-202210
+
+ffmpeg -i full.mp3 -ss 00:00:10 -to 00:04:14 -acodec copy 01-jinbutsu-202210.mp3
+ffmpeg -i full.mp3 -ss 00:04:14 -to 00:10:30 -acodec copy 02-jinbutsu-202210.mp3
+ffmpeg -i full.mp3 -ss 00:10:30 -to 00:16:35 -acodec copy 03-jinbutsu-202210.mp3
+ffmpeg -i full.mp3 -ss 00:16:35 -to 00:22:27 -acodec copy 04-jinbutsu-202210.mp3
+ffmpeg -i full.mp3 -ss 00:22:27 -to 00:30:01 -acodec copy 05-jinbutsu-202210.mp3
+ffmpeg -i full.mp3 -ss 00:30:01 -to 00:35:58 -acodec copy 06-jinbutsu-202210.mp3
+ffmpeg -i full.mp3 -ss 00:35:58 -to 00:44:35 -acodec copy 07-jinbutsu-202210.mp3
+ffmpeg -i full.mp3 -ss 00:44:35 -to 00:49:44 -acodec copy 08-jinbutsu-202210.mp3
+ffmpeg -i full.mp3 -ss 00:49:44 -to 00:57:49 -acodec copy 09-jinbutsu-202210.mp3
+ffmpeg -i full.mp3 -ss 00:57:49 -to 01:04:02 -acodec copy 10-jinbutsu-202210.mp3
+ffmpeg -i full.mp3 -ss 01:04:02 -to 01:13:03 -acodec copy 11-jinbutsu-202210.mp3
+
+
+
