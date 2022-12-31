@@ -285,5 +285,15 @@ ffmpeg -i full.mp3 -ss 00:49:44 -to 00:57:49 -acodec copy 09-jinbutsu-202210.mp3
 ffmpeg -i full.mp3 -ss 00:57:49 -to 01:04:02 -acodec copy 10-jinbutsu-202210.mp3
 ffmpeg -i full.mp3 -ss 01:04:02 -to 01:13:03 -acodec copy 11-jinbutsu-202210.mp3
 
+########################################
+fuyu-20221205
+https://www.youtube.com/watch?v=VGBsMsacjWo
 
+ffmpeg -i full.mp3 -ss 00:00:10 -to 00:10:47 -acodec copy 01-fuyu-20221205.mp3
+ffmpeg -i full.mp3 -ss 00:10:47 -to 00:16:02 -acodec copy 02-fuyu-20221205.mp3
+ffmpeg -i full.mp3 -ss 00:16:02 -to 00:22:27 -acodec copy 03-fuyu-20221205.mp3
+ffmpeg -i full.mp3 -ss 00:22:27 -to 00:33:40 -acodec copy 04-fuyu-20221205.mp3
+ffmpeg -i full.mp3 -ss 00:33:40 -to 00:39:33 -acodec copy 05-fuyu-20221205.mp3
+ffmpeg -i full.mp3 -ss 00:39:33 -to 00:50:05 -acodec copy 06-fuyu-20221205.mp3
+ffmpeg -i full.mp3 -ss 00:50:05 -to 00:56:40 -acodec copy 07-fuyu-20221205.mp3
 
