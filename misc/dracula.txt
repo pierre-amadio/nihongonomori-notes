@@ -7,21 +7,21 @@ https://www.dailymotion.com/video/x840rf7?playlist=x77srs
 
 1)
 
-ffmpeg -f ep1.mp3 -ss 00:00:00 -to 00:14:59 -acodec copy 01-dracula.mp3
-ffmpeg -f ep1.mp3 -ss 00:13:59 -to 00:30:06 -acodec copy 02-dracula.mp3
-ffmpeg -f ep1.mp3 -ss 00:30:06 -to 00:45:10 -acodec copy 03-dracula.mp3
-ffmpeg -f ep1.mp3 -ss 00:45:10 -to 00:58:30 -acodec copy 04-dracula.mp3
+ffmpeg -i ep1.mp3 -ss 00:00:00 -to 00:14:59 -acodec copy 01-dracula.mp3
+ffmpeg -i ep1.mp3 -ss 00:13:59 -to 00:30:06 -acodec copy 02-dracula.mp3
+ffmpeg -i ep1.mp3 -ss 00:30:06 -to 00:45:10 -acodec copy 03-dracula.mp3
+ffmpeg -i ep1.mp3 -ss 00:45:10 -to 00:58:30 -acodec copy 04-dracula.mp3
 
 2)
-ffmpeg -f ep2.mp3 -ss 00:00:00 -to 00:15:03 -acodec copy 05-dracula.mp3
-ffmpeg -f ep2.mp3 -ss 00:15:03 -to 00:30:38 -acodec copy 06-dracula.mp3
-ffmpeg -f ep2.mp3 -ss 00:30:38 -to 00:44:57 -acodec copy 07-dracula.mp3
-ffmpeg -f ep2.mp3 -ss 00:44:57 -to 00:58:27 -acodec copy 08-dracula.mp3
+ffmpeg -i ep2.mp3 -ss 00:00:00 -to 00:15:03 -acodec copy 05-dracula.mp3
+ffmpeg -i ep2.mp3 -ss 00:15:03 -to 00:30:38 -acodec copy 06-dracula.mp3
+ffmpeg -i ep2.mp3 -ss 00:30:38 -to 00:44:57 -acodec copy 07-dracula.mp3
+ffmpeg -i ep2.mp3 -ss 00:44:57 -to 00:58:27 -acodec copy 08-dracula.mp3
 
 3)
 
-ffmpeg -f ep3.mp3 -ss 00:00:00 -to 00:14:55 -acodec copy 09-dracula.mp3
-ffmpeg -f ep3.mp3 -ss 00:14:55 -to 00:29:56 -acodec copy 10-dracula.mp3
+ffmpeg -i ep3.mp3 -ss 00:00:00 -to 00:14:55 -acodec copy 09-dracula.mp3
+ffmpeg -i ep3.mp3 -ss 00:14:55 -to 00:29:56 -acodec copy 10-dracula.mp3
 
 
 
