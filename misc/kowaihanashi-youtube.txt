@@ -302,8 +302,18 @@ uwasa-20220223
 https://www.youtube.com/watch?v=Wg5TadNQrgQ
 
 ffmpeg -i full.mp3 -ss 00:00:10 -to 00:17:51 -acodec copy 01-uwasa-20220223.mp3
+https://hhs.parasite.jp/hhslibrary/?p=5442
+
 ffmpeg -i full.mp3 -ss 00:17:51 -to 00:32:46 -acodec copy 02-uwasa-20220223.mp3
 ffmpeg -i full.mp3 -ss 00:32:46 -to 00:40:11 -acodec copy 03-uwasa-20220223.mp3
 ffmpeg -i full.mp3 -ss 00:40:11 -to 00:48:23 -acodec copy 04-uwasa-20220223.mp3
 ffmpeg -i full.mp3 -ss 00:48:23 -to 00:53:59 -acodec copy 05-uwasa-20220223.mp3
 ffmpeg -i full.mp3 -ss 00:53:59 -to 01:05:37 -acodec copy 06-uwasa-20220223.mp3
+
+#######################################
+このドア開けてくれよ
+https://xn--u9jv84l7ea468b.com/kaidan/695wa.html
+https://www.youtube.com/watch?v=-SGDJK2buds
+#######################################
+
+
