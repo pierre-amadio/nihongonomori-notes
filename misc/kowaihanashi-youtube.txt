@@ -311,6 +311,13 @@ ffmpeg -i full.mp3 -ss 00:48:23 -to 00:53:59 -acodec copy 05-uwasa-20220223.mp3
 ffmpeg -i full.mp3 -ss 00:53:59 -to 01:05:37 -acodec copy 06-uwasa-20220223.mp3
 
 #######################################
+https://www.youtube.com/watch?v=2LKp-VLxvKs
+ネットにまつわる
+
+ ~/dev/yt-dlp/yt-dlp.sh -o "%(section_number)02d-internet-%(section_title)s.%(ext)s" "https://www.youtube.com/watch?v=2LKp-VLxvKs" -x --audio-format mp3 --split-chapters --download-sections ".*" 
+
+
+#######################################
 このドア開けてくれよ
 https://xn--u9jv84l7ea468b.com/kaidan/695wa.html
 https://www.youtube.com/watch?v=-SGDJK2buds
