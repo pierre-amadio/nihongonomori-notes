@@ -1,0 +1,82 @@
+00:00:00 00:00:15 XXXXX
+00:00:15 00:02:58 OK news
+00:02:58 00:03:32 XXXX
+00:03:32 00:05:39 OK railgun
+00:05:39 00:9:12  XXXX
+00:09:12 00:10:12 bento
+00:10:12 00:10:25 XXX
+00:10:25 00:12:51 visit
+00:12:51 00:16:12 XXX satsujin
+00:16:12 00:16:41 coakroach
+00:16:41 00:18:00 XXXX
+00:18:00 00:22:00 police
+00:22:00 00:24:36 interview 
+00:24:36 00:26:00 XXX to the public phone
+00:26:00 00:27:31 phone
+00:27:31 00:33:04 university
+00:33:04 00:33:36 XXX math lesson
+00:33:36 00:35:08 phone2
+00:36:23 00:37:11 old friends meeting
+00:37:37 00:39:12 drinking NP
+00:41:25 00:41:58 morning
+00:42:12 00:42:38 neighboor talk
+00:42:52 00:43:13 homeless
+00:43:20 00:44:03 mirror
+00:44:44 00:45:35 police meeting
+00:45:40 00:48:47 bicycle
+00:49:19 00:49:27 friends meeting 2
+00:49:53 00:51:28 bento visit
+00:51:35 00:52:34 math problem
+00:53:03 00:54:55 phone3
+
+
+ffmpeg -ss 00:00:15 -to 00:02:58  -i film.mp4 -q:a 0 -map a 01-suspectX-news.mp3
+ffmpeg -ss 00:03:32 -to 00:05:39  -i film.mp4 -q:a 0 -map a 02-suspectX-railgun.mp3
+ffmpeg -ss 00:09:12 -to 00:10:12  -i film.mp4 -q:a 0 -map a 03-suspectX-bento.mp3
+ffmpeg -ss 00:10:25 -to 00:12:51  -i film.mp4 -q:a 0 -map a 04-suspectX-visit.mp3
+ffmpeg -ss 00:16:12 -to 00:16:41  -i film.mp4 -q:a 0 -map a 05-suspectX-coakroach.mp3
+ffmpeg -ss 00:18:00 -to 00:22:00  -i film.mp4 -q:a 0 -map a 06-suspectX-police.mp3
+ffmpeg -ss 00:22:00 -to 00:24:36  -i film.mp4 -q:a 0 -map a 07-suspectX-interview.mp3
+ffmpeg -ss 00:26:00 -to 00:27:31  -i film.mp4 -q:a 0 -map a 08-suspectX-phone.mp3
+ffmpeg -ss 00:27:31 -to 00:33:04  -i film.mp4 -q:a 0 -map a 09-suspectX-university.mp3
+ffmpeg -ss 00:33:35 -to 00:35:08  -i film.mp4 -q:a 0 -map a 10-suspectX-phone2.mp3
+ffmpeg -ss 00:36:23 -to 00:37:11  -i film.mp4 -q:a 0 -map a 11-suspectX-old-friend-meeting.mp3
+ffmpeg -ss 00:37:37 -to 00:39:12  -i film.mp4 -q:a 0 -map a 12-suspectX-drinking-np.mp3
+ffmpeg -ss 00:41:25 -to 00:41:58  -i film.mp4 -q:a 0 -map a 13-suspectX-morning.mp3
+ffmpeg -ss 00:42:12 -to 00:42:38  -i film.mp4 -q:a 0 -map a 14-suspectX-neighboor-talk.mp3
+ffmpeg -ss 00:42:52 -to 00:43:13  -i film.mp4 -q:a 0 -map a 15-suspectX-homeless.mp3
+ffmpeg -ss 00:43:20 -to 00:44:03  -i film.mp4 -q:a 0 -map a 16-suspectX-mirror.mp3
+ffmpeg -ss 00:44:44 -to 00:45:35  -i film.mp4 -q:a 0 -map a 17-suspectX-police-meeting.mp3
+ffmpeg -ss 00:45:40 -to 00:48:47  -i film.mp4 -q:a 0 -map a 18-suspectX-bicycle.mp3
+ffmpeg -ss 00:49:19 -to 00:49:27  -i film.mp4 -q:a 0 -map a 19-suspectX-friends-meeting2.mp3
+ffmpeg -ss 00:49:53 -to 00:51:28  -i film.mp4 -q:a 0 -map a 20-suspectX-bento-visit.mp3
+ffmpeg -ss 00:51:35 -to 00:52:34  -i film.mp4 -q:a 0 -map a 21-suspectX-math-problem.mp3
+ffmpeg -ss 00:53:03 -to 00:54:55  -i film.mp4 -q:a 0 -map a 22-suspectX-phone3.mp3
+ffmpeg -ss 00:55:02 -to 00:55:55  -i film.mp4 -q:a 0 -map a 23-suspectX-nohelp.mp3
+ffmpeg -ss 00:55:56 -to 00:56:42  -i film.mp4 -q:a 0 -map a 24-suspectX-regular-customer.mp3
+ffmpeg -ss 00:57:01 -to 00:57:41  -i film.mp4 -q:a 0 -map a 25-suspectX-genius.mp3
+ffmpeg -ss 00:57:50 -to 00:58:09  -i film.mp4 -q:a 0 -map a 26-suspectX-hypothesis1.mp3
+ffmpeg -ss 00:58:13 -to 00:59:30  -i film.mp4 -q:a 0 -map a 27-suspectX-hypothesis2.mp3
+ffmpeg -ss 00:59:47 -to 01:00:48  -i film.mp4 -q:a 0 -map a 28-suspectX-hypothesis3.mp3
+ffmpeg -ss 01:01:19 -to 01:02:05  -i film.mp4 -q:a 0 -map a 29-suspectX-retour-restau.mp3
+ffmpeg -ss 01:03:06 -to 01:03:42  -i film.mp4 -q:a 0 -map a 30-suspectX-police.mp3
+ffmpeg -ss 01:04:04 -to 01:04:34  -i film.mp4 -q:a 0 -map a 31-suspectX-occult.mp3
+ffmpeg -ss 01:05:19 -to 01:07:41  -i film.mp4 -q:a 0 -map a 32-suspectX-interview.mp3
+ffmpeg -ss 01:08:14 -to 01:08:50  -i film.mp4 -q:a 0 -map a 33-suspectX-stalker.mp3
+ffmpeg -ss 01:09:02 -to 01:09:56  -i film.mp4 -q:a 0 -map a 34-suspectX-stalker-restau.mp3
+ffmpeg -ss 01:09:59 -to 01:12:46  -i film.mp4 -q:a 0 -map a 35-suspectX-yonshokumonday.mp3
+ffmpeg -ss 01:16:23 -to 01:17:40  -i film.mp4 -q:a 0 -map a 36-suspectX-curry.mp3
+ffmpeg -ss 01:18:05 -to 01:20:29  -i film.mp4 -q:a 0 -map a 37-suspectX-montain.mp3
+ffmpeg -ss 01:25:05 -to 01:25:41  -i film.mp4 -q:a 0 -map a 38-suspectX-summit.mp3
+ffmpeg -ss 01:26:45 -to 01:27:18  -i film.mp4 -q:a 0 -map a 39-suspectX-phone4-saigo.mp3
+ffmpeg -ss 01:27:37 -to 01:31:08  -i film.mp4 -q:a 0 -map a 40-suspectX-redition.mp3
+ffmpeg -ss 01:31:10 -to 01:31:23  -i film.mp4 -q:a 0 -map a 41-suspectX-postinterview1.mp3
+ffmpeg -ss 01:32:16 -to 01:32:35  -i film.mp4 -q:a 0 -map a 42-suspectX-letter1.mp3
+ffmpeg -ss 01:33:33 -to 01:35:19  -i film.mp4 -q:a 0 -map a 43-suspectX-letter2.mp3
+ffmpeg -ss 01:36:50 -to 01:37:41  -i film.mp4 -q:a 0 -map a 44-suspectX-4color.mp3
+ffmpeg -ss 01:39:07 -to 01:42:16  -i film.mp4 -q:a 0 -map a 45-suspectX-friend.mp3
+ffmpeg -ss 01:42:30 -to 01:44:05  -i film.mp4 -q:a 0 -map a 46-suspectX-trick.mp3
+ffmpeg -ss 01:44:22 -to 01:45:05  -i film.mp4 -q:a 0 -map a 47-suspectX-jail.mp3
+ffmpeg -ss 01:45:57 -to 01:54:27  -i film.mp4 -q:a 0 -map a 48-suspectX-trick2.mp3
+ffmpeg -ss 01:54:55 -to 01:55:15  -i film.mp4 -q:a 0 -map a 49-suspectX-final.mp3
+ffmpeg -ss 02:01:28 -to 02:03:06  -i film.mp4 -q:a 0 -map a 50-suspectX-conclusion.mp3
