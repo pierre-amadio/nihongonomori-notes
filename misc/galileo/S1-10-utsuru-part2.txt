@@ -1,0 +1,55 @@
+ffmpeg -ss 00:00:52 -to 00:01:14  -i film.avi -q:a 0 -map a 01-utsuru2-dokoni.mp3
+ffmpeg -ss 00:01:14 -to 00:02:35  -i film.avi -q:a 0 -map a 02-utsuru2-tea.mp3
+ffmpeg -ss 00:02:39 -to 00:03:12  -i film.avi -q:a 0 -map a 03-utsuru2-lab.mp3
+ffmpeg -ss 00:03:12 -to 00:03:49  -i film.avi -q:a 0 -map a 04-utsuru2-tea2.mp3
+ffmpeg -ss 00:03:50 -to 00:04:24  -i film.avi -q:a 0 -map a 05-utsuru2-redmercury.mp3
+ffmpeg -ss 00:04:25 -to 00:05:07  -i film.avi -q:a 0 -map a 06-utsuru2-tea3.mp3
+ffmpeg -ss 00:05:08 -to 00:05:21  -i film.avi -q:a 0 -map a 07-utsuru2-lab2.mp3
+ffmpeg -ss 00:05:21 -to 00:06:22  -i film.avi -q:a 0 -map a 08-utsuru2-tea4.mp3
+ffmpeg -ss 00:06:22 -to 00:06:52  -i film.avi -q:a 0 -map a 09-utsuru2-lab3.mp3
+ffmpeg -ss 00:06:59 -to 00:07:53  -i film.avi -q:a 0 -map a 10-utsuru2-tea5.mp3
+ffmpeg -ss 00:08:33 -to 00:08:55  -i film.avi -q:a 0 -map a 11-utsuru2-umezato.mp3
+ffmpeg -ss 00:09:06 -to 00:09:14  -i film.avi -q:a 0 -map a 12-utsuru2-umezato2.mp3
+ffmpeg -ss 00:09:19 -to 00:09:44  -i film.avi -q:a 0 -map a 13-utsuru2-ms-medical.mp3
+ffmpeg -ss 00:10:03 -to 00:10:40  -i film.avi -q:a 0 -map a 14-utsuru2-interview.mp3
+ffmpeg -ss 00:10:44 -to 00:11:32  -i film.avi -q:a 0 -map a 15-utsuru2-audiorecord.mp3
+ffmpeg -ss 00:12:04 -to 00:14:23  -i film.avi -q:a 0 -map a 16-utsuru2-split.mp3
+ffmpeg -ss 00:15:14 -to 00:15:37  -i film.avi -q:a 0 -map a 17-utsuru2-suicide.mp3
+ffmpeg -ss 00:15:55 -to 00:16:47  -i film.avi -q:a 0 -map a 18-utsuru2-lab.mp3
+ffmpeg -ss 00:16:47 -to 00:17:44  -i film.avi -q:a 0 -map a 19-utsuru2-ike.mp3
+ffmpeg -ss 00:18:02 -to 00:18:42  -i film.avi -q:a 0 -map a 20-utsuru2-lab-tesudaushikanaidesho.mp3
+ffmpeg -ss 00:18:55 -to 00:20:14  -i film.avi -q:a 0 -map a 21-utsuru2-policelab.mp3
+ffmpeg -ss 00:20:19 -to 00:20:57  -i film.avi -q:a 0 -map a 22-utsuru2-lab-kinsoku.mp3
+ffmpeg -ss 00:21:04 -to 00:21:30  -i film.avi -q:a 0 -map a 23-utsuru2-bukisho.mp3
+ffmpeg -ss 00:21:45 -to 00:22:06  -i film.avi -q:a 0 -map a 24-utsuru2-audiolab.mp3
+ffmpeg -ss 00:22:08 -to 00:22:57  -i film.avi -q:a 0 -map a 25-utsuru2-lab.mp3
+ffmpeg -ss 00:23:46 -to 00:24:14  -i film.avi -q:a 0 -map a 26-utsuru2-lab-supernak.mp3
+ffmpeg -ss 00:24:15 -to 00:25:05  -i film.avi -q:a 0 -map a 27-utsuru2-audiolab2.mp3
+ffmpeg -ss 00:25:10 -to 00:25:20  -i film.avi -q:a 0 -map a 28-utsuru2-dekita.mp3
+ffmpeg -ss 00:25:21 -to 00:26:01  -i film.avi -q:a 0 -map a 29-utsuru2-merry-chrissmass.mp3
+ffmpeg -ss 00:26:17 -to 00:26:42  -i film.avi -q:a 0 -map a 30-utsuru2-fake-voice.mp3
+ffmpeg -ss 00:27:08 -to 00:30:52  -i film.avi -q:a 0 -map a 31-utsuru2-explanation.mp3
+ffmpeg -ss 00:30:53 -to 00:32:02  -i film.avi -q:a 0 -map a 32-utsuru2-explanation2.mp3
+ffmpeg -ss 00:32:12 -to 00:33:30  -i film.avi -q:a 0 -map a 33-utsuru2-explanation3.mp3
+ffmpeg -ss 00:33:42 -to 00:36:40  -i film.avi -q:a 0 -map a 34-utsuru2-tokyo-hanbun.mp3
+ffmpeg -ss 00:37:25 -to 00:38:14  -i film.avi -q:a 0 -map a 35-utsuru2-pentagon.mp3
+ffmpeg -ss 00:38:34 -to 00:39:33  -i film.avi -q:a 0 -map a 36-utsuru2-nigete.mp3
+ffmpeg -ss 00:40:16 -to 00:40:43  -i film.avi -q:a 0 -map a 37-utsuru2-prime.mp3
+ffmpeg -ss 00:40:50 -to 00:41:14  -i film.avi -q:a 0 -map a 38-utsuru2-simple-bomb.mp3
+ffmpeg -ss 00:41:34 -to 00:41:52  -i film.avi -q:a 0 -map a 39-utsuru2-simple-damate.mp3
+ffmpeg -ss 00:42:18 -to 00:43:08  -i film.avi -q:a 0 -map a 40-utsuru2-bokujanakatta.mp3
+ffmpeg -ss 00:46:07 -to 00:46:17  -i film.avi -q:a 0 -map a 41-utsuru2-fibonacci.mp3
+ffmpeg -ss 00:46:31 -to 00:47:12  -i film.avi -q:a 0 -map a 42-utsuru2-fibonacci2.mp3
+ffmpeg -ss 00:49:41 -to 00:50:04  -i film.avi -q:a 0 -map a 43-utsuru2-wakaranai.mp3
+ffmpeg -ss 00:51:14 -to 00:51:28  -i film.avi -q:a 0 -map a 44-utsuru2-kiminokan.mp3
+ffmpeg -ss 00:52:42 -to 00:53:14  -i film.avi -q:a 0 -map a 45-utsuru2-santa.mp3
+ffmpeg -ss 00:53:55 -to 00:55:27  -i film.avi -q:a 0 -map a 46-utsuru2-fusen.mp3
+
+
+
+
+
+
+
+
+
