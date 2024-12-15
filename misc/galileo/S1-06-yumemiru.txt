@@ -1,0 +1,55 @@
+ffmpeg -ss 00:00:27 -to 00:00:42  -i film.avi -q:a 0 -map a 01-yumemiru-ainikite.mp3
+ffmpeg -ss 00:02:06 -to 00:02:13  -i film.avi -q:a 0 -map a 02-yumemiru-hanarenasai.mp3
+ffmpeg -ss 00:02:20 -to 00:04:06  -i film.avi -q:a 0 -map a 03-yumemiru-morisakiremi.mp3
+ffmpeg -ss 00:04:07 -to 00:04:46  -i film.avi -q:a 0 -map a 04-yumemiru-inochichi.mp3
+ffmpeg -ss 00:05:04 -to 00:05:44  -i film.avi -q:a 0 -map a 05-yumemiru-yougisha.mp3
+ffmpeg -ss 00:05:51 -to 00:06:38  -i film.avi -q:a 0 -map a 06-yumemiru-message.mp3
+ffmpeg -ss 00:07:09 -to 00:07:34  -i film.avi -q:a 0 -map a 07-yumemiru-uranaishi.mp3
+ffmpeg -ss 00:07:55 -to 00:08:17  -i film.avi -q:a 0 -map a 08-yumemiru-song.mp3
+ffmpeg -ss 00:08:20 -to 00:10:50  -i film.avi -q:a 0 -map a 09-yumemiru-sculpt.mp3
+ffmpeg -ss 00:10:56 -to 00:11:49  -i film.avi -q:a 0 -map a 10-yumemiru-sample.mp3
+ffmpeg -ss 00:12:21 -to 00:13:49  -i film.avi -q:a 0 -map a 11-yumemiru-kahaokawatenai.mp3
+ffmpeg -ss 00:13:55 -to 00:14:28  -i film.avi -q:a 0 -map a 12-yumemiru-kitanosoheigaka.mp3
+ffmpeg -ss 00:14:29 -to 00:14:56  -i film.avi -q:a 0 -map a 13-yumemiru-ekakyuta.mp3
+ffmpeg -ss 00:15:11 -to 00:15:16  -i film.avi -q:a 0 -map a 14-yumemiru-hachi.mp3
+ffmpeg -ss 00:15:20 -to 00:16:09  -i film.avi -q:a 0 -map a 15-yumemiru-coronner.mp3
+ffmpeg -ss 00:16:57 -to 00:17:09  -i film.avi -q:a 0 -map a 16-yumemiru-xerox.mp3 
+ffmpeg -ss 00:17:20 -to 00:17:41  -i film.avi -q:a 0 -map a 17-yumemiru-phone.mp3
+ffmpeg -ss 00:17:45 -to 00:18:01  -i film.avi -q:a 0 -map a 18-yumemiru-phone1.mp3 
+ffmpeg -ss 00:18:07 -to 00:20:00  -i film.avi -q:a 0 -map a 19-yumemiru-phone2.mp3 
+ffmpeg -ss 00:20:07 -to 00:20:24  -i film.avi -q:a 0 -map a 20-yumemiru-doshitandesuka.mp3 
+ffmpeg -ss 00:20:26  -to 00:21:14  -i film.avi -q:a 0 -map a 21-yumemiru-otona.mp3 
+ffmpeg -ss 00:22:40  -to 00:22:46  -i film.avi -q:a 0 -map a 22-yumemiru-Y0542.mp3 
+ffmpeg -ss 00:23:17  -to 00:23:20  -i film.avi -q:a 0 -map a 23-yumemiru-hachidoko.mp3 
+ffmpeg -ss 00:23:35  -to 00:23:41  -i film.avi -q:a 0 -map a 24 -yumemiru-kakuninshitaikoto.mp3 
+ffmpeg -ss 00:24:01  -to 00:24:30  -i film.avi -q:a 0 -map a 25-yumemiru-ijimerareru.mp3 
+ffmpeg -ss 00:24:36  -to 00:24:42  -i film.avi -q:a 0 -map a 26-yumemiru-trapped.mp3 
+ffmpeg -ss 00:24:54  -to 00:25:26  -i film.avi -q:a 0 -map a 27-yumemiru-farrady.mp3 
+ffmpeg -ss 00:26:50  -to 00:27:02  -i film.avi -q:a 0 -map a 27-yumemiru-keitai.mp3 
+ffmpeg -ss 00:27:14  -to 00:28:56  -i film.avi -q:a 0 -map a 28-yumemiru-newton.mp3 
+ffmpeg -ss 00:29:03  -to 00:29:17  -i film.avi -q:a 0 -map a 29-yumemiru-gambatte.mp3 
+ffmpeg -ss 00:29:55  -to 00:30:24  -i film.avi -q:a 0 -map a 30-yumemiru-taihousaremashia.mp3 
+ffmpeg -ss 00:30:25  -to 00:30:52  -i film.avi -q:a 0 -map a 31-yumemiru-kikitaikotogaaru.mp3 
+ffmpeg -ss 00:30:56  -to 00:31:00  -i film.avi -q:a 0 -map a 32-yumemiru-kikitaikotogaaru2.mp3 
+ffmpeg -ss 00:32:01  -to 00:32:30  -i film.avi -q:a 0 -map a 33-yumemiru-kimida.mp3 
+ffmpeg -ss 00:32:35  -to 00:38:11  -i film.avi -q:a 0 -map a 34-yumemiru-setsumei.mp3 
+ffmpeg -ss 00:38:25  -to 00:38:37  -i film.avi -q:a 0 -map a 35-yumemiru-setsumei2.mp3 
+ffmpeg -ss 00:38:41  -to 00:38:48  -i film.avi -q:a 0 -map a 36-yumemiru-setsumei3.mp3 
+ffmpeg -ss 00:39:14  -to 00:39:49  -i film.avi -q:a 0 -map a 37-yumemiru-setsumei4.mp3 
+ffmpeg -ss 00:40:28   -to 00:40:37  -i film.avi -q:a 0 -map a 38-yumemiru-oukagaishitaikotogaaru.mp3 
+ffmpeg -ss 00:40:43   -to 00:40:47  -i film.avi -q:a 0 -map a 39-yumemiru-nabe.mp3 
+ffmpeg -ss 00:41:04   -to 00:41:10  -i film.avi -q:a 0 -map a 40-yumemiru-gomen.mp3 
+ffmpeg -ss 00:41:52   -to 00:42:45  -i film.avi -q:a 0 -map a 41-yumemiru-mata.mp3 
+ffmpeg -ss 00:42:50   -to 00:43:55  -i film.avi -q:a 0 -map a 42-yumemiru-final.mp3 
+
+
+
+ 
+
+
+
+
+
+
+
+
