@@ -142,18 +142,20 @@ tunnel,kult, red woman, contagion,mansion
 #13 待っている
 https://www.youtube.com/watch?v=UMeD8CjfKOw&list=PLRLvvXCToxLGJOcLHFEjabLPZLjptsuPk&index=13
 https://kakuyomu.jp/works/16817330652495155185/episodes/16817330653947894409
-発生日時：2014
+発生日時：2014 掲載
 場所： mansion building 5 
-内容：
+内容：mansion, building 5,
 
-場所：
-発生日時：
-実行者の特徴：
-内容：
+#14 「待っている」掲載前原稿
+https://www.youtube.com/watch?v=lUVTRe1r6_s&list=PLRLvvXCToxLGJOcLHFEjabLPZLjptsuPk&index=14
+https://kakuyomu.jp/works/16817330652495155185/episodes/16817330653941211502
+発生日時：2014
+内容：mansion, building 5, kaki, tasteless food
 
-場所：
-発生日時：
-実行者の特徴：
+#15 「謎のシール、その正体に迫る！」
+https://www.youtube.com/watch?v=JbJLCP7h05g&list=PLRLvvXCToxLGJOcLHFEjabLPZLjptsuPk&index=15
+https://kakuyomu.jp/works/16817330652495155185/episodes/16817330654097675275
+発生日時： 2008年7月号掲載
 内容：
 
 場所：
@@ -190,6 +192,7 @@ https://kakuyomu.jp/works/16817330652495155185/episodes/16817330653947894409
 2009 (#9) jumping woman
 2010 (#11) motorbike blog
 2012 (#12) psychology experiment
+2014 (#13 #14) 待っている
 2015 (#10) renting an appartment web site
 2016 (#6) mother and kid living in nagano found dead in dam's lake. Husband interrogated.
 2017 (#1) internet forum
